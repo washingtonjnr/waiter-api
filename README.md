@@ -1,6 +1,6 @@
 # Node + Express + Mongoose (to MongoDB)
 
-* - To run
+*  To run
   # yarn init -y
     Initializes a new project with default settings without asking for user input.
 
