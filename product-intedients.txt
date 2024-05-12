@@ -1,0 +1,50 @@
+🍅 🧀 🍃 🫒 🍊 🧊 🐓 🍖 🍳 🥬 🥓 🧅
+
+- 4 Queijos:
+[{ "name": "Mussarela", "icon": "🧀" }, { "name": "Parmesão", "icon": "🧀" }, { "name": "Gouda", "icon": "🧀" }, { "name": "Brie", "icon": "🧀" }]
+
+- Pizza Margherita:
+[{ "name": "Molho de tomate", "icon": "🍅" },{ "name": "Mussarela", "icon": "🧀" },{ "name": "Manjericão", "icon": "🍃" },{ "name": "Azeite de oliva", "icon": "🫒" }]
+
+-  Pizza de Frango com Catupiry:
+[{"name": "Frango desfiado", "icon": "🐓" }, {"name": "Queijo Catupiry", "icon": "🧀" }, {"name": "Molho de tomate", "icon": "🍅" }, {"name": "Mussarela", "icon": "🧀" }]
+
+
+
+- X-Egg:
+[{ "name": "Hambúrguer de carne bovina", "icon": "🍖" }, { "name": "Ovo frito", "icon": "🍳" }, { "name": "Queijo", "icon": "🧀" }, { "name": "Alface", "icon": "🥬" }, { "name": "Tomate", "icon": "🍅" }]
+
+
+- X-Chicken:
+[{ "name": "Frango grelhado", "icon": "🐓" }, { "name": "Queijo", "icon": "🧀" }, { "name": "Alface", "icon": "🥬" }, { "name": "Tomate", "icon": "🍅" }, { "name": "Molho secreto", "icon": "🤐" }]
+
+
+- X-Special:
+[{ "name": "Hambúrguer de carne bovina", "icon": "🍖" }, { "name": "Bacon", "icon": "🥓" }, { "name": "Alface", "icon": "🥬" }, { "name": "Queijo cheddar", "icon": "🧀" }, { "name": "Cebola caramelizada", "icon": "🧅" }, { "name": "Molho secreto", "icon": "🤐" }]
+
+
+
+
+
+
+XXXX Pizza Quatro Queijos: A Pizza Quatro Queijos é uma explosão de sabores cremosos e intensos, combinando mussarela, gorgonzola, parmesão e provolone sobre uma massa crocante, garantindo uma experiência gastronômica irresistível.
+
+XXXX Pizza Margherita: A clássica pizza italiana com molho de tomate, mussarela fresca e manjericão, oferecendo um sabor fresco e aromático em cada mordida.
+
+XXXX Pizza de Frango com Catupiry: Uma combinação irresistível de frango desfiado e cremoso, coberta com o delicioso queijo Catupiry, criando uma explosão de sabor em cada pedaço.
+
+
+
+X-Egg: Um clássico sanduíche com hambúrguer, ovo frito, queijo, alface e tomate, oferecendo uma refeição satisfatória e saborosa em um pão macio e fresco.
+
+X-Chicken: Um sanduíche delicioso com frango grelhado, queijo, alface e tomate, proporcionando um sabor suculento e irresistível em cada mordida.
+
+X-Special: Um sanduíche especial com ingredientes cuidadosamente selecionados, oferecendo uma explosão de sabores e texturas em cada mordida, tornando-se uma opção indulgente e deliciosa para satisfazer seus desejos.
+
+
+
+Cerveja: Uma bebida refrescante e relaxante, perfeita para desfrutar em momentos de descontração e socialização, oferecendo uma variedade de sabores e estilos para todos os gostos.
+
+Coca-Cola: O icônico refrigerante com sua fórmula secreta e borbulhas refrescantes, proporcionando um sabor único e inconfundível em cada gole.
+
+Suco de Laranja: Feito com laranjas frescas e suculentas, este suco oferece um sabor refrescante e nutritivo, perfeito para revigorar a qualquer momento do dia.
